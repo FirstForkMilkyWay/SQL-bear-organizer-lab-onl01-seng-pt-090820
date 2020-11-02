@@ -1,2 +1,2 @@
-INSERT INTO bears (name) VALUE ('Mr. Chocolate');
-INSERT INTO bears (name) VALUE ('Rowdy');
+INSERT INTO bears (name) VALUES ("Mr. Chocolate");
+INSERT INTO bears (name) VALUES ("Rowdy");
